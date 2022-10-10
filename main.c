@@ -296,6 +296,4 @@ int main(void) {
   void finish();
   void setscore();
   void printscore(int times);
-
-  // os cantos opostos do tabuleiro não estão trocando
 }
